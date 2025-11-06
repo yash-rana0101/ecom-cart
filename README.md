@@ -20,22 +20,16 @@ A modern, minimalistic shopping cart application built with React, Node.js, Expr
 
 ## Project Screenshots
 
-### Home Page with Product Carousel
 ![Home Page](https://res.cloudinary.com/dtgiujxll/image/upload/v1762417275/qaxvi6jgnniesesvy3vm.png)
 
-### Product Grid
 ![Product Grid](https://res.cloudinary.com/dtgiujxll/image/upload/v1762417274/pqc8mhvcqhabq41re4zy.png)
 
-### Shopping Cart
 ![Shopping Cart](https://res.cloudinary.com/dtgiujxll/image/upload/v1762417273/xhtzzlrxrknrzqvrme9s.png)
 
-### Checkout Form
 ![Checkout Form](https://res.cloudinary.com/dtgiujxll/image/upload/v1762417272/hnhuvd3pq2xymnakokvg.png)
 
-### Order Receipt
 ![Order Receipt](https://res.cloudinary.com/dtgiujxll/image/upload/v1762417272/ub1indmddrzypzyyfkel.png)
 
-### User Authentication
 ![Authentication](https://res.cloudinary.com/dtgiujxll/image/upload/v1762417270/urizi2jh9vhb09oslcul.png)
 
 
