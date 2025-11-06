@@ -20,6 +20,8 @@ A modern, minimalistic shopping cart application built with React, Node.js, Expr
 
 ## Project Screenshots
 
+![auth Page](https://res.cloudinary.com/dtgiujxll/image/upload/v1762418342/ilmhheca7hbhpvfvz5bs.png)
+
 ![Home Page](https://res.cloudinary.com/dtgiujxll/image/upload/v1762417275/qaxvi6jgnniesesvy3vm.png)
 
 ![Product Grid](https://res.cloudinary.com/dtgiujxll/image/upload/v1762417274/pqc8mhvcqhabq41re4zy.png)
